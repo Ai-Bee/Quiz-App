@@ -1,6 +1,6 @@
-# zeproject
+# Quiz App
 
-> A Vue.js project
+> A Vue.js quiz app
 
 ## Build Setup
 
